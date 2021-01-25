@@ -1,0 +1,3 @@
+LIBRARY MyMath_Def
+EXPORTS
+	MakeSquer

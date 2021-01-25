@@ -1,0 +1,12 @@
+﻿  Implicite_Dll_Def.cpp
+MyMath_Def.lib(1): warning LNK4017: !<arch> statement not supported for the target platform; ignored
+MyMath_Def.lib(2): warning LNK4017: / statement not supported for the target platform; ignored
+MyMath_Def.lib(2): warning LNK4017:  statement not supported for the target platform; ignored
+MyMath_Def.lib(2): warning LNK4017:  statement not supported for the target platform; ignored
+MyMath_Def.lib(2): warning LNK4017: L statement not supported for the target platform; ignored
+MyMath_Def.lib(2): warning LNK4017: L statement not supported for the target platform; ignored
+MyMath_Def.lib(3): warning LNK4017: MyMath_Def.dll/ statement not supported for the target platform; ignored
+MyMath_Def.lib(3): warning LNK4017: L statement not supported for the target platform; ignored
+     Creating library G:\darshan\Win32\WinRT-2019-Assignments-Darshan\01-IDE\08-DLL\Client\Implicite_Dll_Def\Debug\Implicite_Dll_Def.lib and object G:\darshan\Win32\WinRT-2019-Assignments-Darshan\01-IDE\08-DLL\Client\Implicite_Dll_Def\Debug\Implicite_Dll_Def.exp
+  Implicite_Dll_Def.vcxproj -> G:\darshan\Win32\WinRT-2019-Assignments-Darshan\01-IDE\08-DLL\Client\Implicite_Dll_Def\Debug\Implicite_Dll_Def.exe
+  Implicite_Dll_Def.vcxproj -> G:\darshan\Win32\WinRT-2019-Assignments-Darshan\01-IDE\08-DLL\Client\Implicite_Dll_Def\Debug\Implicite_Dll_Def.pdb (Full PDB)

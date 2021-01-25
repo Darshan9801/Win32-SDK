@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title>this is example</title>
+		<object id="MyComAutomationDLL_64Bit" name="MyComAutomationDLL_64Bit" classid="clsid:{68652B97-8503-4134-8BCE-48FBA6DCB1B7}"></object>
+
+	</head>
+
+	<body>
+	<script language="javascript" type="text/javascript">
+		function comMethod_click(){
+		
+		var returnCode = MyComAutomationDLL_64Bit.SumOfTwoIntegers(num1.value,num2.value);
+		var msg = "Sum Of "+num1.value+" and "+ num2.value+" is: "+returnCode;
+		alert("SumOfTwoIntegers invoke success!")
+		alert("Automation Server:"+msg)
+		
+		}
+	</script>
+
+	<h1>Hello Sir.!!!</h1>
+
+	<font face="verdana" color="#B404AE" size="5">
+		Automation Server Componet SumOfTwoIntegers method invokation through Javasript:<br><br> </font>
+		<h1>hello sir</h1>
+	<font face = "verdana">
+		<table>
+			<tr>
+				<td>
+					<label>Num1</label>
+					<textarea id="num1" rows="1" cols="7">10</textarea>
+					<label>Num2</label>
+					<textarea id="num2" rows="1" cols="7">20</textarea>
+	
+				</td>
+			</tr>
+		</table>
+	<font face="verdana" color="#0040FF" size="3">
+	<button id="myButton" onclick="comMethod_click();">Call COM Method</button>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+#include<windows.h>
+#include"mysplashscreen.h"
+
+MYICON ICON "window1.ico"
