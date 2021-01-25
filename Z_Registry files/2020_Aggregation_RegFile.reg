@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{E06630F6-91EF-4DFC-AB3B-221FD5C7AEEA}]
+@="AggregationDllWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{E06630F6-91EF-4DFC-AB3B-221FD5C7AEEA}\InprocServer32]
+@="C:\\Windows\\System32\\4_O_Aggregation.dll"	
+
+
+[HKEY_CLASSES_ROOT\CLSID\{E87257FB-A6C3-45A6-811F-9AC48C69D8E5}]
+@="Aggregation2DllWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{E87257FB-A6C3-45A6-811F-9AC48C69D8E5}\InprocServer32]
+@="C:\\Windows\\System32\\4_I_Aggregation.dll"
+

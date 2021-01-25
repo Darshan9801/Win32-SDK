@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{D1B0AE0B-8976-408B-8BF4-B80A0981CD47}]
+@="DatabaseDll"
+[HKEY_CLASSES_ROOT\CLSID\{D1B0AE0B-8976-408B-8BF4-B80A0981CD47}\InprocServer32]
+@="C:\\Windows\\System32\\Database.dll"	
+
+
+

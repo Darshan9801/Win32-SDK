@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{FDD85D8E-5B91-4351-877F-66D718C6AE03}]
+@="ContainmentDllWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{FDD85D8E-5B91-4351-877F-66D718C6AE03}\InprocServer32]
+@="C:\\Windows\\System32\\3_O_Cimtainment.dll"	
+
+
+[HKEY_CLASSES_ROOT\CLSID\{E9869B37-ED12-44A5-BB5F-0D2E6565DBA3}]
+@="ContainmentDllWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{E9869B37-ED12-44A5-BB5F-0D2E6565DBA3}\InprocServer32]
+@="C:\\Windows\\System32\\3_I_Containment.dll"
+

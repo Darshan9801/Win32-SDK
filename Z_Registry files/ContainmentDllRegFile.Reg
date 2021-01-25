@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{9531B6D9-1660-4AD0-9E60-5F2B8358BA56}]
+@="ServerofOuterContainment"
+[HKEY_CLASSES_ROOT\CLSID\{9531B6D9-1660-4AD0-9E60-5F2B8358BA56}\InprocServer32]
+@="C:\\Windows\\System32\\ServerOuterContainment.dll"	
+
+
+[HKEY_CLASSES_ROOT\CLSID\{B1E87516-F353-4F20-B9ED-AC946CEF5C23}]
+@="ServerofInnerContainment"
+[HKEY_CLASSES_ROOT\CLSID\{B1E87516-F353-4F20-B9ED-AC946CEF5C23}\InprocServer32]
+@="C:\\Windows\\System32\\ServerInnerContainmentDll.dll"	
+

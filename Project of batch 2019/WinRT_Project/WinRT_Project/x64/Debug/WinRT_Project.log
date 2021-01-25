@@ -1,0 +1,29 @@
+﻿  WinRT_Project.cpp
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(305): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(310): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(315): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(321): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(326): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(331): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(352): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(362): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(365): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(369): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(381): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(385): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(391): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(400): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(403): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(408): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(419): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(422): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(427): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(430): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(434): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(437): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(242): warning C4101: 'strB': unreferenced local variable
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(576): warning C4244: '=': conversion from 'TCHAR' to 'char', possible loss of data
+g:\darshan\win32sdk\winrt_project\winrt_project\winrt_project.cpp(531): warning C4101: 'ch': unreferenced local variable
+  WinRT_Project.vcxproj -> G:\darshan\WIN32SDK\WinRT_Project\x64\Debug\WinRT_Project.exe
+  WinRT_Project.vcxproj -> G:\darshan\WIN32SDK\WinRT_Project\x64\Debug\WinRT_Project.pdb (Full PDB)
