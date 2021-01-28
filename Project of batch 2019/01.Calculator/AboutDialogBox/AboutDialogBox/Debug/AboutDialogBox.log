@@ -1,0 +1,27 @@
+﻿  DialogBox.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(21,1): warning C4005: 'RT_MANIFEST': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(282): message : see previous definition of 'RT_MANIFEST'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(22,1): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(283): message : see previous definition of 'CREATEPROCESS_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(23,1): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(284): message : see previous definition of 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(24,1): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(285): message : see previous definition of 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(25,1): warning C4005: 'ISOLATIONPOLICY_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(286): message : see previous definition of 'ISOLATIONPOLICY_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(26,1): warning C4005: 'ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(287): message : see previous definition of 'ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(27,1): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(288): message : see previous definition of 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(28,1): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(289): message : see previous definition of 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(78,6): warning C4101: 'hdc': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(79,14): warning C4101: 'ps': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(80,7): warning C4101: 'rc': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(83,8): warning C4101: 'st8': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(452,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(130,7): warning C4101: 'hdc': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(131,15): warning C4101: 'ps': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(132,8): warning C4101: 'rc': unreferenced local variable
+D:\03.Windows Developement\WIN32SDK\AboutDialogBox\AboutDialogBox\DialogBox.cpp(133,10): warning C4101: 'hbrush': unreferenced local variable
+  AboutDialogBox.vcxproj -> D:\03.Windows Developement\WIN32SDK\AboutDialogBox\Debug\AboutDialogBox.exe

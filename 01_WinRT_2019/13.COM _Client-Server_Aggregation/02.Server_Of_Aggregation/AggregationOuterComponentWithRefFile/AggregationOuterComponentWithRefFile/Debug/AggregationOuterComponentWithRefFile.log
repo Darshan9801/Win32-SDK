@@ -1,0 +1,5 @@
+﻿  AggregationOuterComponentWithRegFile.cpp
+     Creating library G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\Debug\AggregationOuterComponentWithRefFile.lib and object G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\Debug\AggregationOuterComponentWithRefFile.exp
+AggregationOuterComponentWithRefFile.exp : warning LNK4070: /OUT:AggregationOuterComponentWithRegFile.dll directive in .EXP differs from output filename 'G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\Debug\AggregationOuterComponentWithRefFile.dll'; ignoring directive
+  AggregationOuterComponentWithRefFile.vcxproj -> G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\Debug\AggregationOuterComponentWithRefFile.dll
+  AggregationOuterComponentWithRefFile.vcxproj -> G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\Debug\AggregationOuterComponentWithRefFile.pdb (Full PDB)

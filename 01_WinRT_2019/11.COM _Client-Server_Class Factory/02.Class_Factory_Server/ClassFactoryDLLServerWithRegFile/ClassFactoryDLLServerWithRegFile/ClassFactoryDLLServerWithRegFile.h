@@ -1,0 +1,27 @@
+#include<windows.h>
+
+class ISum : public IUnknown
+{
+public:
+	virtual HRESULT __stdcall SumOfTwoIntegers(int, int, int*) = 0;
+
+};
+class ISubtract : public IUnknown
+{
+public :
+	virtual HRESULT __stdcall SubstractionOfTwoIntegers(int, int, int*) = 0;
+
+};
+
+// {E6CAEB95-D687-4573-9BA6-04F339D60134}
+const CLSID CLSID_SumSubtract = { 0xe6caeb95, 0xd687, 0x4573, 0x9b, 0xa6, 0x4, 0xf3, 0x39, 0xd6, 0x1, 0x34 };
+
+const IID IID_ISum = { 0x4f9947f6, 0xf96a, 0x46c2, 0x94, 0x95, 0x68, 0xda, 0xc2, 0x3f, 0x90, 0x1f };
+
+const IID IID_ISubtract = { 0xe9368e57, 0x4feb, 0x4d52, 0xbd, 0x5, 0x53, 0xa, 0x25, 0xe4, 0x5d, 0x93 };
+
+
+
+
+
+

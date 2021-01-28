@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AggregationOuterComponentWithRefFile.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AggregationOuterComponentWithRegFile.cpp
+     Creating library G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\x64\Debug\AggregationOuterComponentWithRegFile.lib and object G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\x64\Debug\AggregationOuterComponentWithRegFile.exp
+  AggregationOuterComponentWithRefFile.vcxproj -> G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\x64\Debug\AggregationOuterComponentWithRegFile.dll
+  AggregationOuterComponentWithRefFile.vcxproj -> G:\darshan\WIN32SDK\AggregationOuterComponentWithRefFile\x64\Debug\AggregationOuterComponentWithRegFile.pdb (Full PDB)

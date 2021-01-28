@@ -1,0 +1,5 @@
+LIBRARY ServerOuterContainment
+EXPORTS	
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
+	
